@@ -1,0 +1,11 @@
+{
+  "name": "movies-search-api",
+  "version": "1.0.0",
+  "description": "fake server with fake database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Saheed Oladele",
+  "license": "ISC"
+}
